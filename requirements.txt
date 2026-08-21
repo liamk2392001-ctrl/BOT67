@@ -1,0 +1,11 @@
+put this in cmd then open the .py 
+
+
+
+pip install requests
+
+
+
+
+
+now u got a good discord cloner
